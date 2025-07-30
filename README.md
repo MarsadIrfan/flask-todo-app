@@ -64,7 +64,7 @@ flask run
 ```
 ### 5. Signup, login and use
 - Signup using the signup button on the bottom of the login page
-- Return back to the login page and login into you account
+- Return back to the login page and login into your account
 - Add or delete tasks here
 
 ---
