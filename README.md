@@ -52,13 +52,13 @@ pip install flask flask-sqlalchemy werkzeug
 
 ### 3. Initialize_db
 - Delete the todo.db in the instance/ folder as it contains some dummy credentials and data
-- run:
+- Run:
   ```bash
   python init_db.py
   ```
 
 ### 4. Run Server 
-enter this in the terminal:
+Enter this in the terminal:
 ```bash
 flask run
 ```
