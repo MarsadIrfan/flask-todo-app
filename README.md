@@ -58,7 +58,7 @@ pip install flask flask-sqlalchemy werkzeug
   ```
 
 ### 4. Run Server 
-enter in terminal:
+enter this in the terminal:
 ```bash
 flask run
 ```
@@ -71,10 +71,10 @@ flask run
 
 ### 🧪 Want to Improve It?
 Things you could add (and maybe submit a pull request? 😉):
-Separate to-do lists per user 🧍‍♂️🧍‍♀️
-Due dates or priorities ⏰
-Toggle task completion ✅
-Dark mode 🌓
+- Separate to-do lists per user 🧍‍♂️🧍‍♀️
+- Due dates or priorities ⏰
+- Toggle task completion ✅
+- Dark mode 🌓
 
 ---
 
